@@ -169,9 +169,9 @@ Dự án này được phát hành dưới giấy phép MIT. Xem file `LICENSE` 
 
 ## 📞 Liên hệ
 
-- **Email**: [your-email@example.com]
-- **Phone**: [your-phone-number]
-- **GitHub**: [your-github-username]
+- **Email**: [luuconghn.lamcong.contacts@gmail.com]
+- **Phone**: [0796049711]
+- **GitHub**: [luuconghoangnam]
 
 ## 🔄 Phiên bản
 
