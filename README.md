@@ -151,9 +151,42 @@ Hệ thống hỗ trợ các khối thi:
 - **A01**: Toán, Lý, Anh
 - **C00**: Văn, Sử, Địa
 
-## 📸 Screenshots
+## 📸 Ảnh minh họa giao diện
 
-[Có thể thêm ảnh chụp màn hình các giao diện chính]
+### 🏠 Trang chủ
+
+![Trang chủ](ImagesREADME/TrangChu.png)
+
+### 🔐 Đăng nhập
+
+![Đăng nhập](ImagesREADME/Login.png)
+
+### 📝 Đăng ký
+
+![Đăng ký](ImagesREADME/Register.png)
+
+### 👨‍🎓 Giao diện sinh viên
+
+![Giao diện sinh viên](ImagesREADME/Student.png)
+
+### 👨‍🏫 Giao diện giảng viên
+
+![Giao diện giảng viên](ImagesREADME/Teacher.png)
+
+### 👨‍💼 Giao diện quản trị viên
+
+![Giao diện quản trị viên](ImagesREADME/Admin.png)
+
+### 📋 Mô tả các giao diện
+
+| Giao diện | Mô tả | Chức năng chính |
+|-----------|-------|-----------------|
+| **Trang chủ** | Giao diện đầu tiên người dùng thấy | Đăng nhập, đăng ký |
+| **Đăng nhập** | Form xác thực người dùng | Nhập username/password, phân quyền |
+| **Đăng ký** | Form tạo tài khoản mới | Tạo tài khoản sinh viên |
+| **Sinh viên** | Dashboard dành cho sinh viên | Nộp hồ sơ, xem kết quả |
+| **Giảng viên** | Dashboard dành cho giảng viên | Duyệt hồ sơ, đánh giá |
+| **Quản trị viên** | Dashboard dành cho admin | Quản lý toàn bộ hệ thống |
 
 ## 🤝 Đóng góp
 
